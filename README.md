@@ -21,7 +21,7 @@ The purpose of this analysis is to train a neural network model to help with cla
   * ![image](https://github.com/lhmag89/deep-learning-challenge/assets/119267098/7eb7f616-4a22-4cac-afb5-fc92478a925a)
   * ![image](https://github.com/lhmag89/deep-learning-challenge/assets/119267098/a49856bd-a69f-42d1-a5b2-1a59cb9384d4)
   * Training on 100 epochs. Accuracy: 72.70%
-  * Model save to AlphabetSoupCharity.h5 file
+  * Model saved to AlphabetSoupCharity.h5 file
 
 * Model 2
   * Modifications:
@@ -34,6 +34,7 @@ The purpose of this analysis is to train a neural network model to help with cla
   * ![image](https://github.com/lhmag89/deep-learning-challenge/assets/119267098/d637551f-19ea-4be1-9aa5-847e996e532d)
   * Training on 100 epochs. Accuracy: 73.17%
   * The target accuracy rate of 75% was not achieved
+  * Model save to AlphabetSoupCharity_Optimization.h5 file
 
 ## Summary
 
